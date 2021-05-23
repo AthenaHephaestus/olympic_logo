@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+    align-items: center;
+}
+h1{
+    color: red;
+}
+canvas{
+    background-color: white;
+    border: black;
+    border-style: ridge;
+}
